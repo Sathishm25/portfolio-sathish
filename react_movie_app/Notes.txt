@@ -1,0 +1,3 @@
+React Redux - Axios - REST API - OMDB-API
+Redux Middleware Thunk
+https://www.youtube.com/watch?v=VEp9dW0MeDA

@@ -1,0 +1,16 @@
+npm create-react-app ./
+npm install @ant-design/icons axios react-chat-engine
+chatengine.io - SadhanaS@7
+npm start
+
+chatengine.io/
+sathishm - sathishm
+RajniKanth - Rajni
+MS Dhoni - MSDhoni
+
+netlify.com - 
+Rajni@121250
+
+chat-app-satz.netlify.app
+
+Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS!
